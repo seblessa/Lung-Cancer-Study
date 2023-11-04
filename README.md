@@ -16,7 +16,6 @@ Data Analysis
 
 SVM
 
-
 Seb:
 
 RandomForest
