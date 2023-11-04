@@ -19,7 +19,6 @@ SVM
 
 Seb:
 
-
 RandomForest
 
 XGBoost/LightGBM
