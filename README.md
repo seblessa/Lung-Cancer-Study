@@ -35,4 +35,4 @@ pip install -r requirements.txt
 
 # Results
 
-##### The experiments are in the [LabIACD](LabIACD.ipynb) notebook.
+##### The experiments are in this [jupyter notebook](LabIACD.ipynb).
